@@ -4,8 +4,8 @@
  
 - 🔭 I’m currently trying to developing a mobile app and back-end technologies
 - 🌱 I’m currently learning everything about React 😅
-- 💪🏼 Future Goals: Learn more technologies - Never Stop Creating 🤣
 - 👯 Also love Robotics especially about Image Processing and Deep Learning
+- 💪🏼 Future Goals: Learn more technologies - Never Stop Creating 
 - ⚡ Fun fact: I love coffee ☕ and play Badminton 🏸
 
 ### 👨‍💻 Things that I'm currently working on:
