@@ -7,7 +7,7 @@
 - 💪🏼 Future Goals: Learn more technologies - Never Stop Creating 
 - ⚡ Fun fact: I love coffee ☕ and play Badminton 🏸
 
-### 👨‍💻 I'm Familiar With::
+### 👨‍💻 I'm Familiar With:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
 <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
