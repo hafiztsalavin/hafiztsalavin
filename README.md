@@ -4,9 +4,7 @@
  
 - 🌱 I’m currently learning everything about back-end technologies 😅
 - 📝 I regularly write articles on [hafiztsalavin.com](hafiztsalavin.com)
-- 👯 Also love Robotics especially about Image Processing and Deep Learning
-- 💪🏼 Future Goals: Learn more technologies - Never Stop Creating 
-- ⚡ Fun fact: I love coffee ☕ and play Badminton 🏸
+- ⚡ Love coffee ☕ and play Badminton 🏸
 
 ### 👨‍💻 I'm Familiar With:
 
