@@ -4,7 +4,7 @@
  
 - 🌱 Currently learning everything about back-end technologies 😅
 - 📝 Also started to write articles on [hafiztsalavin.com](https://hafiztsalavin.com)
-- ⚡ Love coffee ☕ and play Badminton 🏸
+- ☕ Coffee addict
 
 ### 👨‍💻 I'm Familiar With :
 
