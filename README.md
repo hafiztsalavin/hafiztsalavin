@@ -3,7 +3,7 @@
 <!-- <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/> -->
  
 - 🌱 Learning everything about back-end technologies
-- 📝 Also started to write articles on [hafiztsalavin.com](https://hafiztsalavin.com)
+- 📝 Also started to write blog on [hafiztsalavin.com](https://hafiztsalavin.com)
 
 ### Connect With Me :
 
@@ -12,4 +12,4 @@
 
 
 [twitter]: https://twitter.com/hafiztsalavin
-[linkedin]: https://www.linkedin.com/in/muhammad-hafiz-tsalavin-823a7315a/
+[linkedin]: https://www.linkedin.com/in/hafiztsalavin
